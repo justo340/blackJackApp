@@ -1,0 +1,43 @@
+h1 {
+    color: goldenrod;
+}
+
+
+/* general element tag */
+
+body {
+    background-image: url("table.jpeg");
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: green;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+button {
+    width: 150px;
+    background: goldenrod;
+    color: #016f32;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+
+/* individual id of element */
+
+#message-el {
+    font-style: italic;
+}
+
+
+/* individual class of element */
+
+.sum-el {
+    font-size: 12px;
+}
